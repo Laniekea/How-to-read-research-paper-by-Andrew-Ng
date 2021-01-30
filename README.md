@@ -16,9 +16,15 @@ Ran a quick go through at least 10-20% of the contents.
 Summarize the key discoveries, findings and techniques of each paper, in your own words.
 Go through at least three times instead of reading from first word to last word. 
 
-#### First Scan: title, abstract, and figures 
-#### Second Scan: intro, conclusion, and figures again
-#### Third Scan: the rest of content but skip complicated maths/techniques/terms you dont understand 
+#### First Scan: 
+title, abstract, and figures 
+
+#### Second Scan: 
+intro, conclusion, and figures again
+
+#### Third Scan: 
+the rest of content but skip complicated maths/techniques/terms you dont understand 
+
 
 ### Step 4. In-depth research 
 
